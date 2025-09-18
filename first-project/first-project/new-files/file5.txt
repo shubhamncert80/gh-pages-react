@@ -1,3 +1,1 @@
-it is a new file in new-files folder
-
-file5.txt just changed. This line was modified again in master branch
+line replaced in master branch, merge conflict has been resolved 

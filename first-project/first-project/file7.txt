@@ -1,2 +1,1 @@
-just another file in the root of working directory named file7.txt 
 line replaced in masater branch
